@@ -1,2 +1,5 @@
-### Hi, there my name is rahave 👋
-Welcome to my Github page! I'm a Computer Engineering student at the University of Waterloo.
+### Hi there, I'm Rahave 👋
+Welcome to my Github page! 
+🎓 University of Waterloo, Computer Engineering Student
+🎨 Creative coder who loves building innovative projects!
+
